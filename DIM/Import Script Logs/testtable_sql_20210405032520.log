@@ -1,0 +1,10 @@
+4/5/2021 8:55:20 AM	This log contains information about the import operation of the script 'testtable.sql' into project 'DIM' on computer 'USBLRARUNM7' by user'arunm6.
+4/5/2021 8:55:20 AM	Started importing file: C:\Users\arunm6\Desktop\testtable.sql 
+4/5/2021 8:55:20 AM	File name C:\Users\arunm6\Desktop\testtable.sql (size: 362)
+4/5/2021 8:55:20 AM	Parsing import script
+4/5/2021 8:55:20 AM	Total number of batches in script: 1
+4/5/2021 8:55:20 AM	Total number of statements in script: 0
+4/5/2021 8:55:20 AM	The script was successfully imported into the project.
+4/5/2021 8:55:21 AM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+4/5/2021 8:55:21 AM	A summary of the import was saved to the following location: C:\Users\arunm6\source\repos\DIM\DIM\Import Script Logs\testtable_sql_20210405032520.log
+4/5/2021 8:55:21 AM	Click Finish to continue...

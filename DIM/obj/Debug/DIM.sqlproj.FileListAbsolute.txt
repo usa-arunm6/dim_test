@@ -1,0 +1,6 @@
+C:\Users\arunm6\source\repos\DIM\DIM\bin\Debug\DIM.dacpac
+C:\Users\arunm6\source\repos\DIM\DIM\bin\Debug\DIM.dll
+C:\Users\arunm6\source\repos\DIM\DIM\bin\Debug\DIM.pdb
+C:\Users\arunm6\source\repos\DIM\DIM\obj\Debug\DIM.sqlprojAssemblyReference.cache
+C:\Users\arunm6\source\repos\DIM\DIM\obj\Debug\DIM.dll
+C:\Users\arunm6\source\repos\DIM\DIM\obj\Debug\DIM.pdb

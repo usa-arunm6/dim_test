@@ -1,0 +1,82 @@
+4/4/2021 3:01:18 PM	This log contains information about the import schema operation into project 'DIM' on computer 'USBLRARUNM7' by user 'arunm6'.
+4/4/2021 3:01:18 PM	Import of database schema has started.
+4/4/2021 3:01:22 PM	Gathering database credentials
+4/4/2021 3:01:22 PM	Gathering database options
+4/4/2021 3:01:22 PM	Gathering users
+4/4/2021 3:01:22 PM	Gathering roles
+4/4/2021 3:01:22 PM	Gathering application roles
+4/4/2021 3:01:22 PM	Gathering role memberships
+4/4/2021 3:01:22 PM	Gathering filegroups
+4/4/2021 3:01:22 PM	Gathering full-text catalogs
+4/4/2021 3:01:22 PM	Gathering assemblies
+4/4/2021 3:01:22 PM	Gathering certificates
+4/4/2021 3:01:22 PM	Gathering asymmetric keys
+4/4/2021 3:01:22 PM	Gathering symmetric keys
+4/4/2021 3:01:22 PM	Gathering encrypted symmetric keys
+4/4/2021 3:01:22 PM	Gathering schemas
+4/4/2021 3:01:22 PM	Gathering XML schema collections
+4/4/2021 3:01:22 PM	Gathering user-defined data types
+4/4/2021 3:01:22 PM	Gathering user-defined types
+4/4/2021 3:01:22 PM	Gathering table types
+4/4/2021 3:01:22 PM	Gathering unique keys for table types
+4/4/2021 3:01:22 PM	Gathering primary keys for table types
+4/4/2021 3:01:22 PM	Gathering indexes for table types
+4/4/2021 3:01:22 PM	Gathering check constraints for table types
+4/4/2021 3:01:22 PM	Gathering default constraints for table types
+4/4/2021 3:01:22 PM	Gathering partition functions
+4/4/2021 3:01:22 PM	Gathering partition schemes
+4/4/2021 3:01:22 PM	Gathering functions
+4/4/2021 3:01:22 PM	Gathering encrypted functions
+4/4/2021 3:01:22 PM	Gathering aggregates
+4/4/2021 3:01:22 PM	Gathering procedures
+4/4/2021 3:01:22 PM	Gathering encrypted procedures
+4/4/2021 3:01:22 PM	Gathering tables
+4/4/2021 3:01:22 PM	Gathering primary keys
+4/4/2021 3:01:22 PM	Gathering unique constraints
+4/4/2021 3:01:22 PM	Gathering foreign keys
+4/4/2021 3:01:22 PM	Gathering default constraints
+4/4/2021 3:01:22 PM	Gathering check constraints
+4/4/2021 3:01:22 PM	Gathering views
+4/4/2021 3:01:22 PM	Gathering encrypted views
+4/4/2021 3:01:22 PM	Gathering indexes
+4/4/2021 3:01:22 PM	Gathering statistics
+4/4/2021 3:01:22 PM	Gathering full-text index stoplists
+4/4/2021 3:01:22 PM	Gathering search property lists
+4/4/2021 3:01:22 PM	Gathering search properties
+4/4/2021 3:01:22 PM	Gathering full-text indexes
+4/4/2021 3:01:22 PM	Gathering column store indexes
+4/4/2021 3:01:22 PM	Gathering spatial indexes
+4/4/2021 3:01:22 PM	Gathering XML indexes
+4/4/2021 3:01:22 PM	Gathering Selective XML indexes
+4/4/2021 3:01:22 PM	Gathering encrypted triggers
+4/4/2021 3:01:22 PM	Gathering triggers
+4/4/2021 3:01:22 PM	Gathering encrypted and clr ddl triggers
+4/4/2021 3:01:22 PM	Gathering ddl triggers
+4/4/2021 3:01:22 PM	Gathering synonyms
+4/4/2021 3:01:22 PM	Gathering defaults
+4/4/2021 3:01:22 PM	Gathering data constraint uddt bindings
+4/4/2021 3:01:22 PM	Gathering rules
+4/4/2021 3:01:22 PM	Gathering data constraint uddt bindings
+4/4/2021 3:01:22 PM	Gathering message types
+4/4/2021 3:01:22 PM	Gathering queues
+4/4/2021 3:01:22 PM	Gathering contracts
+4/4/2021 3:01:22 PM	Gathering services
+4/4/2021 3:01:22 PM	Gathering event notifications
+4/4/2021 3:01:22 PM	Gathering remote service bindings
+4/4/2021 3:01:22 PM	Gathering broker priorities
+4/4/2021 3:01:22 PM	Gathering signatures
+4/4/2021 3:01:22 PM	Gathering data compression options
+4/4/2021 3:01:22 PM	Gathering sequence types
+4/4/2021 3:01:22 PM	Gathering security policies
+4/4/2021 3:01:22 PM	Gather column encryption keys
+4/4/2021 3:01:22 PM	Gathering column master keys
+4/4/2021 3:01:22 PM	Gathering external data sources
+4/4/2021 3:01:22 PM	Gathering external file formats
+4/4/2021 3:01:22 PM	Gathering external tables
+4/4/2021 3:01:22 PM	Gathering extended properties
+4/4/2021 3:01:22 PM	Gathering credentials
+4/4/2021 3:01:22 PM	Gathering logins
+4/4/2021 3:01:22 PM	Gathering server audits
+4/4/2021 3:01:22 PM	Finished importing database.
+4/4/2021 3:01:22 PM	A summary of the import was saved to the following location: C:\Users\arunm6\source\repos\DIM\DIM\Import Schema Logs\DIM_20210404093118.log
+4/4/2021 3:01:22 PM	Click Finish to continue...
